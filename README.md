@@ -1,4 +1,4 @@
-# DRX-pattern
+# XRD-pattern
 
 Download XRD patterns from Materials Project - remember to get and use your own API key.
 
